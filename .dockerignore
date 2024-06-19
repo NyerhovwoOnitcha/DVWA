@@ -2,5 +2,5 @@
 **/.gitignore
 **/.github
 **/Dockerfile*
-**/.dockerignore
+#**/.dockerignore
 **/compose*
